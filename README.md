@@ -45,5 +45,5 @@
 Иванов_1.csv)_.
 
 Выполненные задания направлять на электронную почту
-RMatvienko@mosgortur.ru (копия: EMitreykina@mosgortur.ru), тема
+KVoronin@mosgortur.ru (копия: EMitreykina@mosgortur.ru), тема
 письма: "Тестовое задание на позицию аналитика".
